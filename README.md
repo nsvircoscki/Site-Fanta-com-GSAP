@@ -2,11 +2,6 @@
 
 Este projeto é um conceito de Landing Page para a marca Fanta, focada em uma experiência imersiva de "Scrollytelling" (narrativa através do scroll). O projeto utiliza animações avançadas para mover os elementos da tela conforme o usuário navega.
 
-## 🖥️ Preview
-
-![Preview do Projeto](./Assets/preview.png)
-*(Se ainda não tiver um print, pode apagar essa linha)*
-
 ## 🚀 Tecnologias Utilizadas
 
 * **HTML5:** Estrutura semântica.
